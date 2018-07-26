@@ -19,6 +19,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="@dimen/three_one_dp"
         android:text="@string/nameHere"
+        android:textStyle="bold"
         android:fontFamily="sans-serif-condensed"
         android:textSize="@dimen/one_eight_sp"
         android:textColor="@android:color/white" />
