@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="five_dp">5dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="three_zero_dp">30dp</dimen>
+    <dimen name="six_five_dp">65dp</dimen>
+    <dimen name="one_five_zero_dp">150dp</dimen>
+    <dimen name="two_zero_zero_dp">200dp</dimen>
+    <dimen name="two_two_zero_dp">220dp</dimen>
+    <dimen name="three_eight_zero_dp">380dp</dimen>
+    <dimen name="three_one_dp">31dp</dimen>
+    <dimen name="one_eight_sp">18sp</dimen>
+    <dimen name="top_margin">25dp</dimen>
+
+</resources>

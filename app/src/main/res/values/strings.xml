@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="imageDes">Image Here</string>
+    <string name="nameHere">Name Here</string>
+    <string name="hotel1">Radisson</string>
+    <string name="hotel2">Holiday</string>
+    <string name="hotel3">Hyatt</string>
+    <string name="hotel4">Taj Swarna</string>
+    <string name="title1">Places</string>
+    <string name="title2">Restaurants</string>
+    <string name="title3">Hotels</string>
+    <string name="title4">About</string>
+    <string name="place1">Harmandir Sahib(Golden Temple)</string>
+    <string name="place2">Gurudwara Baba Atal Rai</string>
+    <string name="place3">Ram Tirth</string>
+    <string name="place4">Jallianwala Bagh</string>
+    <string name="sight1">Gobind Garh Fort</string>
+    <string name="sight2">Khalsa College of Amritsar</string>
+    <string name="sight3">Wagha Border</string>
+    <string name="sight4">Punjab State War Memorial</string>
+    <string name="places">Places</string>
+    <string name="hotel">Hotels</string>
+    <string name="sight">Sights</string>
+    <string name="mall_of_ars">Mall of Amritsar</string>
+    <string name="trillium">Trillum Mall</string>
+    <string name="celebration">Celebration Mall</string>
+    <string name="city">City</string>
+
+    <string name="famous_in_asr">Famous in Amritsar</string>
+    <string name="kesar_dhaba">Kesar da Dhaba</string>
+    <string name="gain_lassi">Gain di Lassi</string>
+    <string name="bhrawan_da_dhaba">Bhrawan da Dhaba</string>
+    <string name="kulcha">Amritsari Kulcha</string>
+    <string name="state">State</string>
+    <string name="punjab">Punjab</string>
+    <string name="punjabi">Punjabi</string>
+    <string name="main_language">Main Language</string>
+    <string name="main_airport">Main Airport</string>
+    <string name="airpot_name">Sri Guru Ramdas Airport</string>
+    <string name="m_trans">Modes of Transport</string>
+    <string name="about_asr">About Amritsar City</string>
+    <string name="transport_mode">Railway,Bus,Cycle,Bike,\nCars,Cabs</string>
+
+
+    <string name="about">Amritsar historically also known as Ramdaspur and colloquially as Ambarsar,
+                         City in north-western part in India. It is the spiritual centre for the Sikh religion
+                        and the administrative headquarters of the Amritsar district in the state of Punjab.\nAmritsar, literally meaning the Pool of the Nectar of Immortality,
+                       is one of the major cities of the Punjab state. The administrative headquarters of the Amritsar District, it is the major spiritual and cultural centre of Sikhs.
+        \nThe city was founded by Guru Ram Das in 1574 on land bought by him for 700 rupees from the owners of the village of Tung. Earlier Guru Ram Das had begun building Santokhsar Sarovar, near the village of Sultanwind in 1564 (according to one source in 1570). It could not be completed before 1588. In 1574, Guru Ram Das built his residence and moved to this place. At that time, it was known as Guru Da Chakk. (Later, it came to be known as Chakk Ram Das).
+</string>
+    </resources>
